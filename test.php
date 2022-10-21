@@ -43,20 +43,17 @@
                                 </div>
                             </div>
                             <div class="col-md-2 header-comp-logo">
-
-                                <a class="homey_logo" href="https://demo03.gethomey.io/">
+                                <a class="homey_logo" href="">
                                     <img src="//89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/homey-logo.png" alt="Homey" title="Homey - Demo 03" style="width: 128px;height:30px">
                                 </a>
                             </div>
                             <div class="col header-comp-right text-right no-cache-1665957121">
                                 <div class="account-login d-flex justify-content-end">
-
                                     <ul class="login-register list-inline d-flex justify-content-end align-items-center">
                                         <li><a href="#" data-toggle="modal" data-target="#modal-login">Login</a></li>
                                         <li><i class="fa fa-circle-o"></i></li>
                                         <li><a href="#" data-toggle="modal" data-target="#modal-register">Register</a></li>
                                     </ul>
-
                                     <a href="https://demo03.gethomey.io/become-a-host/" class="btn btn-add-new-listing">Become a
                                         Host</a>
                                 </div>
@@ -72,42 +69,42 @@
         <div class="bottom-inner-header no-cache-1665957121">
             <div class="container">
                 <div class="header-inner clearfix">
-                    <div class="header-comp-nav text-center no-cache-1665957121">
+                    <div class="header-comp-nav no-cache-1665957121">
                         <nav class="navi">
                             <ul id="main-menu" class="main-menu d-flex justify-content-center">
                                 <li id="menu-item-692" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-692 has-child"><a href="#">Home</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-693" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-693 has-child"><a href="#">Parallax</a>
-                                            <ul class="sub-menu">
+                                            <!-- <ul class="sub-menu">
                                                 <li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-493 current_page_item menu-item-694"><a href="https://demo03.gethomey.io/" aria-current="page">Parallax Standard</a></li>
                                                 <li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://demo03.gethomey.io/homepage-parallax-fullscreen/">Parallax Fullscreen</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li id="menu-item-706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-706 has-child"><a href="#">Maps</a>
-                                            <ul class="sub-menu">
+                                            <!-- <ul class="sub-menu">
                                                 <li id="menu-item-1818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1818"><a href="https://demo03.gethomey.io/homepage-map-standard/?search_position=under_banner">Map Standard</a></li>
                                                 <li id="menu-item-703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://demo03.gethomey.io/homepage-map-fullscreen/">Map Fullscreen</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li id="menu-item-707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-707 has-child"><a href="#">Video</a>
-                                            <ul class="sub-menu">
+                                            <!-- <ul class="sub-menu">
                                                 <li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="https://demo03.gethomey.io/homepage-video-standard/">Video Standard</a></li>
                                                 <li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="https://demo03.gethomey.io/homepage-video-fullscreen/">Video Fullscreen</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li id="menu-item-708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-708 has-child"><a href="#">Slider</a>
-                                            <ul class="sub-menu">
+                                            <!-- <ul class="sub-menu">
                                                 <li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="https://demo03.gethomey.io/homepage-custom-slider/">Custom Slider</a></li>
                                                 <li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="https://demo03.gethomey.io/homepage-custom-slider-fullscreen/">Custom Slider Fullscreen</a></li>
                                                 <li id="menu-item-1621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1621"><a href="https://demo03.gethomey.io/homepage-slider-revolution/">Slider Revolution</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li id="menu-item-709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-709 has-child"><a href="#">Splash Page</a>
-                                            <ul class="sub-menu">
+                                            <!-- <ul class="sub-menu">
                                                 <li id="menu-item-1397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1397"><a href="https://demo03.gethomey.io/splash-page/?splash_type=image">Image Background</a></li>
                                                 <li id="menu-item-1398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1398"><a href="https://demo03.gethomey.io/splash-page/?splash_type=slider">Slider Background</a></li>
                                                 <li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1396"><a href="https://demo03.gethomey.io/splash-page/?splash_type=video">Video Background</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                     </ul>
                                 </li>
@@ -166,7 +163,7 @@
                                     </ul>-->
                                 </li>
                                 <li id="menu-item-710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-710 has-child"><a href="#">Property</a>
-                                    <!-- <ul class="sub-menu">
+                                    <ul class="sub-menu">
                                         <li id="menu-item-822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-822"><a href="https://demo03.gethomey.io/listing/modern-apartment-with-pool/?detail_layout=v1">Property Template v1</a></li>
                                         <li id="menu-item-823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a href="https://demo03.gethomey.io/listing/modern-apartment-with-pool/?detail_layout=v2">Property Template v2</a></li>
                                         <li id="menu-item-824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-824"><a href="https://demo03.gethomey.io/listing/modern-apartment-with-pool/?detail_layout=v3">Property template v3</a></li>
@@ -175,7 +172,7 @@
                                         <li id="menu-item-1916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1916"><a href="https://demo03.gethomey.io/listing/georgeus-villa-in-the-woods/">Request to Book</a></li>
                                         <li id="menu-item-1923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1923"><a href="https://demo03.gethomey.io/listing/stylish-and-modern-lof/">Custom Period Prices</a></li>
                                         <li id="menu-item-2050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2050"><a href="https://demo03.gethomey.io/listing/beautiful-cove/">Extra Prices</a></li>
-                                    </ul> -->
+                                    </ul>
                                 </li>
                                 <li id="menu-item-712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-712 has-child"><a href="#">Pages</a>
                                     <!-- <ul class="sub-menu">
@@ -291,7 +288,7 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="search-button clearfix">
-                                        <button type="submit" class="">Search</button>
+                                        <button type="submit" class="search-btn">Search</button>
                                     </div>
                                 </div>
                             </div>
@@ -305,78 +302,76 @@
         <div class="container elementor-container">
             <div class="row elementor-row">
                 <div class="col-md-12 elementor-column">
-                    <div class="elementor-widget-wrap">
-                        <div class="container elementor-element">
-                            <div class="row elementor-widget-container">
-                                <div class="col-md-12 elementor-spacer">
-                                    <div class="elementor-spacer-inner">
-
-                                    </div>
+                    <!-- <div class="elementor-widget-wrap"> -->
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-spacer">
+                                <div class="elementor-spacer-inner">
                                 </div>
                             </div>
                         </div>
-                        <div class="container elementor-element">
-                            <div class="elementor-widget-container">
-                                <div class="homey_section_title_wrap_elementor homey-module module-title section-title-module">
-                                    <h2 class="homey_section_title"> Find a Place That Fits Your Comfort</h2>
-                                </div>
+                    </div>
+                    <div class=" elementor-element">
+                        <div class="elementor-widget-container">
+                            <div class="homey_section_title_wrap_elementor homey-module module-title section-title-module">
+                                <h2 class="homey_section_title"> Find a Place That Fits Your Comfort</h2>
                             </div>
                         </div>
-                        <div class="container elementor-element">
-                            <div class="row elementor-widget-container">
-                                <div class="col-md-12 elementor-column">
-                                    <div class="module-wrap taxonomy-grid taxonomy-grid-2">
-                                        <div class="row ">
-                                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/apartment/">
-                                                        <div class="taxonomy-title">Apartment</div>
-                                                        <div class="galary-item galary-item-large" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('39-2-555x262.jpg');"></div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/bed-breakfast/">
-                                                        <div class="taxonomy-title">Bed &amp; Breakfast</div>
-                                                        <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('16-4-360x360.jpg');"></div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"> 
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
-                                                        <div class="taxonomy-title">Condo</div>
-                                                        <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('33-360x360.jpg');"></div>
-                                                    </a>
-                                                </div>
+                    </div>
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-column">
+                                <div class="module-wrap taxonomy-grid taxonomy-grid-2">
+                                    <div class="row ">
+                                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                            <div class="taxonomy-item taxonomy-card">
+                                                <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/apartment/">
+                                                    <div class="taxonomy-title">Apartment</div>
+                                                    <div class="galary-item galary-item-large" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('assets/images/39-2-555x262.jpg');"></div>
+                                                </a>
                                             </div>
                                         </div>
-                                        <!-- close row -->
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/house/">
-                                                        <div class="taxonomy-title">House</div>
-                                                        <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('10-7-360x360.jpg');"></div>
-                                                    </a>
-                                                </div>
+                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                            <div class="taxonomy-item taxonomy-card">
+                                                <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/bed-breakfast/">
+                                                    <div class="taxonomy-title">Bed &amp; Breakfast</div>
+                                                    <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('assets/images/16-4-360x360.jpg');"></div>
+                                                </a>
                                             </div>
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/loft/">
-                                                        <div class="taxonomy-title">Loft</div>
-                                                        <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('20-360x360.jpg');"></div>
-                                                    </a>
-                                                </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                            <div class="taxonomy-item taxonomy-card">
+                                                <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
+                                                    <div class="taxonomy-title">Condo</div>
+                                                    <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('assets/images/33-360x360.jpg');"></div>
+                                                </a>
                                             </div>
-                                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/studio/">
-                                                        <div class="taxonomy-title">Studio</div>
-                                                        <div class="galary-item galary-item-large" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('15-555x262.jpg');"></div>
-                                                    </a>
-                                                </div>
+                                        </div>
+                                    </div>
+                                    <!-- close row -->
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                            <div class="taxonomy-item taxonomy-card">
+                                                <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/house/">
+                                                    <div class="taxonomy-title">House</div>
+                                                    <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('assets/images/10-7-360x360.jpg');"></div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                            <div class="taxonomy-item taxonomy-card">
+                                                <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/loft/">
+                                                    <div class="taxonomy-title">Loft</div>
+                                                    <div class="galary-item galary-item-small" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('assets/images/20-360x360.jpg');"></div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                            <div class="taxonomy-item taxonomy-card">
+                                                <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/studio/">
+                                                    <div class="taxonomy-title">Studio</div>
+                                                    <div class="galary-item galary-item-large" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('assets/images/15-555x262.jpg');"></div>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -384,14 +379,23 @@
                             </div>
                         </div>
                     </div>
-                    <div class="container elementor-element">
-                        <div class="row elementor-widget-container">
-                            <div class="elementor-button-wrapper">
-                                <a href="" class="elementor-button-link ">
+                    <!-- </div> -->
+                    <div class="elementor-element">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-button-wrapper d-flex justify-content-center">
+                                <a href="" class="elementor-button-link " style="fill: #000000;color: #000000;background-color: #FFFFFF00;border-style: solid;border-width: 1px 1px 1px 1px;border-radius: 5px 5px 5px 5px;">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-text">Find More Places To Rent</span>
                                     </span>
                                 </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-spacer">
+                                <div class="elementor-spacer-inner">
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -400,11 +404,11 @@
         </div>
     </section>
     <!--  -->
-    <section>
+    <section style="background: #f7f8f9;">
         <div class="container elementor-container">
             <div class="row elementor-row">
                 <div class="col-md-12 elementor-column">
-                    <div class="elementor-widget-wrap">
+                    <div class="elementor-widget">
                         <div class="container elementor-element">
                             <div class="row elementor-widget-container">
                                 <div class="col-md-12 elementor-spacer">
@@ -431,7 +435,7 @@
                                                 <div class="taxonomy-item taxonomy-card">
                                                     <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/apartment/">
                                                         <div class="taxonomy-title">Los Angeles</div>
-                                                        <img loading="lazy" class="img-responsive" src="38-450x300.jpg" width="555" height="246" alt="listing_type">
+                                                        <img loading="lazy" class="img-responsive" src="assets/images/38-450x300.jpg" width="555" height="246" alt="listing_type">
                                                     </a>
                                                 </div>
                                             </div>
@@ -439,7 +443,7 @@
                                                 <div class="taxonomy-item taxonomy-card">
                                                     <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/bed-breakfast/">
                                                         <div class="taxonomy-title">Miami</div>
-                                                        <img loading="lazy" class="img-responsive" src="28-450x300.jpg" width="360" height="246" alt="listing_type">
+                                                        <img loading="lazy" class="img-responsive" src="assets/images/28-450x300.jpg" width="360" height="246" alt="listing_type">
                                                     </a>
                                                 </div>
                                             </div>
@@ -447,7 +451,7 @@
                                                 <div class="taxonomy-item taxonomy-card">
                                                     <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
                                                         <div class="taxonomy-title">New York</div>
-                                                        <img loading="lazy" class="img-responsive" src="01-450x300.jpg" width="360" height="246" alt="listing_type">
+                                                        <img loading="lazy" class="img-responsive" src="assets/images/01-450x300.jpg" width="360" height="246" alt="listing_type">
                                                     </a>
                                                 </div>
                                             </div>
@@ -462,7 +466,7 @@
         </div>
     </section>
     <!--  -->
-    <section style="height:700px;background-image:url('39-4-1.jpg')">
+    <section style="height:700px;background-image:url('assets/images/39-4-1.jpg')">
         <div class="container elementor-container">
             <div class="row elementor-row">
                 <div class="col-md-12 elementor-column">
@@ -527,60 +531,117 @@
         <div class="container elementor-container">
             <div class="row elementor-row">
                 <div class="col-md-12 elementor-column">
-                    <div class="elementor-widget-wrap">
-                        <div class="container elementor-element">
-                            <div class="row elementor-widget-container">
-                                <div class="col-md-12 elementor-spacer">
-                                    <div class="elementor-spacer-inner">
+                    <!-- <div class="elementor-widget-wrap"> -->
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-spacer">
+                                <div class="elementor-spacer-inner">
 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container elementor-element">
+                        <div class="elementor-widget-container">
+                            <div class="homey_section_title_wrap_elementor homey-module module-title section-title-module">
+                                <h2 class="homey_section_title">Trending Destinations</h2>
+                                <p class="homey_section_subtitle sub-heading">Explore our selection of the best places around the world</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-column">
+                                <div class="module-wrap taxonomy-grid taxonomy-grid-2">
+                                    <div class="row ">
+                                        <div class="col">
+                                            <div class="trend-item trend-card">
+                                                <a class="trend-link hover-effect" href="https://demo03.gethomey.io/type/apartment/">
+                                                    <div class="trend-title">Los Angeles</div>
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/los-angeles-2-360x360.png" width="555" height="246" alt="listing_type">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <div class="trend-item trend-card">
+                                                <a class="trend-link hover-effect" href="https://demo03.gethomey.io/type/bed-breakfast/">
+                                                    <div class="trend-title">Miami</div>
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/miami-beach-3-360x360.png" width="360" height="246" alt="listing_type">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <div class="trend-item trend-card">
+                                                <a class="trend-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
+                                                    <div class="trend-title">New York</div>
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/new-york-2-360x360.png" width="360" height="246" alt="listing_type">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <div class="trend-item trend-card">
+                                                <a class="trend-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
+                                                    <div class="trend-title">San Francisco</div>
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/san-fracisco-2-360x360.jpg" width="360" height="246" alt="listing_type">
+                                                </a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="container elementor-element">
-                            <div class="elementor-widget-container">
-                                <div class="homey_section_title_wrap_elementor homey-module module-title section-title-module">
-                                    <h2 class="homey_section_title">Trending Destinations</h2>
-                                    <p class="homey_section_subtitle sub-heading">Explore our selection of the best places around the world</p>
-                                </div>
+                    </div>
+                    <!-- </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="blog-container">
+        <div class="container elementor-container">
+            <div class="row elementor-row">
+                <div class="col-md-12 elementor-column">
+                    <div class="row elementor-widget-container">
+                        <div class="col-md-12 elementor-spacer">
+                            <div class="elementor-spacer-inner">
+
                             </div>
                         </div>
-                        <div class="container elementor-element">
-                            <div class="row elementor-widget-container">
-                                <div class="col-md-12 elementor-column">
-                                    <div class="module-wrap taxonomy-grid taxonomy-grid-2">
-                                        <div class="row ">
-                                            <div class="col">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/apartment/">
-                                                        <div class="taxonomy-title">Los Angeles</div>
-                                                        <img loading="lazy" class="img-responsive" src="los-angeles-2-360x360.png" width="555" height="246" alt="listing_type">
-                                                    </a>
-                                                </div>
+                    </div>
+                    <div class="elementor-element elementor-element-53117a06 elementor-widget elementor-widget-homey_elementor_section_title" data-id="53117a06" data-element_type="widget" data-widget_type="homey_elementor_section_title.default">
+                        <div class="elementor-widget-container">
+                            <div class="homey_section_title_wrap_elementor text-left homey-module module-title section-title-module">
+                                <h2 class="homey_section_title">From Our Blog</h2>
+                                <p class="homey_section_subtitle sub-heading">Keep always update on latest topics</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-column">
+                                <div class="module-wrap taxonomy-grid taxonomy-grid-2">
+                                    <div class="row ">
+                                        <div class="col">
+                                            <div class="blog-item card">
+                                                <a class="card-link hover-effect" href="https://demo03.gethomey.io/type/apartment/">
+
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/blog-01-5-450x300.jpg" width="555" height="246" alt="listing_type">
+                                                </a>
                                             </div>
-                                            <div class="col">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/bed-breakfast/">
-                                                        <div class="taxonomy-title">Miami</div>
-                                                        <img loading="lazy" class="img-responsive" src="miami-beach-3-360x360.png" width="360" height="246" alt="listing_type">
-                                                    </a>
-                                                </div>
+                                        </div>
+                                        <div class="col">
+                                            <div class="blog-item card">
+                                                <a class="card-link hover-effect" href="https://demo03.gethomey.io/type/bed-breakfast/">
+
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/blog-02-450x300.jpg" width="360" height="246" alt="listing_type">
+                                                </a>
                                             </div>
-                                            <div class="col">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
-                                                        <div class="taxonomy-title">New York</div>
-                                                        <img loading="lazy" class="img-responsive" src="new-york-2-360x360.png" width="360" height="246" alt="listing_type">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="taxonomy-item taxonomy-card">
-                                                    <a class="taxonomy-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
-                                                        <div class="taxonomy-title">San Francisco</div>
-                                                        <img loading="lazy" class="img-responsive" src="san-fracisco-2-360x360.jpg" width="360" height="246" alt="listing_type">
-                                                    </a>
-                                                </div>
+                                        </div>
+                                        <div class="col">
+                                            <div class="blog-item card">
+                                                <a class="card-link hover-effect" href="https://demo03.gethomey.io/type/condo/">
+
+                                                    <img loading="lazy" class="img-responsive" src="assets/images/blog-03-450x300.jpg" width="360" height="246" alt="listing_type">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -592,6 +653,220 @@
             </div>
         </div>
     </section>
+    <section class="rewards">
+        <div class="container elementor-container">
+            <div class="row elementor-row">
+                <div class="col-md-12 elementor-column">
+                    <div class="container elementor-element">
+                        <div class="row elementor-widget-container">
+                            <div class="col-md-12 elementor-spacer">
+                                <div class="elementor-spacer-inner">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container elementor-element">
+                        <div class="elementor-widget-container">
+                            <div class="homey_section_title_wrap_elementor homey-module module-title section-title-module">
+                                <h2 class="homey_section_title">Hear From Our Hosts</h2>
+                                <p class="homey_section_subtitle sub-heading">The biggest reward is to satisfy our clients and share their experience with us</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="elementor-element elementor-element-2b71466e elementor-widget elementor-widget-homey_elementor_testimonials" data-id="2b71466e" data-element_type="widget" data-widget_type="homey_elementor_testimonials.default">
+                        <div class="elementor-widget-container">
+                            <div class="module-wrap testimonials-module">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-6 col-md-3">
+                                            <div class="testimonial-item text-center">
+                                                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu
+                                                    mollis eros.</p>
+                                                <div class="testimonial-thumb">
+                                                    <img width="120" height="120" src="assets/images/HomeyHost21-150x150.jpg" class="rounded-circle img-responsive" alt="" loading="lazy">
+                                                </div>
+                                                <p class="auther-info"><strong>Anna Andrews</strong><br><em>Homey Host</em></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-3">
+                                            <div class="testimonial-item text-center">
+                                                <p class="description">Lorem ipsum dolor sit amet, adipiscing elit. Proin facilisis neque.
+                                                    Integer eu mollis. </p>
+                                                <div class="testimonial-thumb"><img width="120" height="120" src="assets/images/HomeyHost23-1-150x150.jpg" class="img-circle img-responsive" alt="" loading="lazy"></div>
+                                                <p class="auther-info"><strong>Harold Warren</strong><br><em>Homey Host</em></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-3">
+                                            <div class="testimonial-item text-center">
+                                                <p class="description">Proin facilisis neque. Integer eu mollis montem. Lorem ipsum dolor sit
+                                                    amet, adipiscing elit. </p>
+                                                <div class="testimonial-thumb"><img width="120" height="120" src="assets/images/HomeyHost07-150x150.jpg" class="img-circle img-responsive" alt="" loading="lazy" ></div>
+                                                <p class="auther-info"><strong>Michelle Wright</strong><br><em>Homey Host</em></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-3">
+                                            <div class="testimonial-item text-center">
+                                                <p class="description">Proin facilisis neque. Integer eu mollis. Lorem ipsum dolor sit amet,
+                                                    adipiscing elit. </p>
+                                                <div class="testimonial-thumb"><img width="120" height="120" src="//89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/10/HomeyHost08-150x150.jpg" class="img-circle img-responsive" alt="" loading="lazy" srcset="//89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/10/HomeyHost08-150x150.jpg 150w, //89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/10/HomeyHost08-300x300.jpg 300w, //89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/10/HomeyHost08-250x250.jpg 250w, //89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/10/HomeyHost08-360x360.jpg 360w, //89239-660736-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/10/HomeyHost08.jpg 400w" sizes="(max-width: 120px) 100vw, 120px"></div>
+                                                <p class="auther-info"><strong>Mike Forward</strong><br><em>Homey Host</em></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="partners" style="background:#f7f8f9;">
+        <div class="container elementor-container">
+            <div class="row elementor-row">
+                <div class="col-md-12 elementor-column">
+                    <div class="row elementor-widget-container">
+                        <div class="col-md-12 elementor-spacer">
+                            <div class="elementor-spacer-inner">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-53117a06 elementor-widget elementor-widget-homey_elementor_section_title" data-id="53117a06" data-element_type="widget" data-widget_type="homey_elementor_section_title.default">
+                        <div class="elementor-widget-container">
+                            <div class="homey_section_title_wrap_elementor text-left homey-module module-title section-title-module">
+                                <h2 class="homey_section_title">Our Partners</h2>
+                                <p class="homey_section_subtitle sub-heading">We only work with the best companies around the globe</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer-wrap footer" style="">
+        <div class="footer-top-wrap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-12 col-xs-12">
+                                <div id="homey_about_widget-3" class="widget footer-widget widget-about">
+                                    <div class="widget-body">
+                                        <img src="assets/images/homey-logo-white.png" alt="Homey" title="Homey - Demo 03" style="width: 128px;height:30px">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3 col-sm-12 col-xs-12">
+                                <div id="homey_taxonomies-2" class="widget footer-widget widget-categories">
+                                    <div class="widget-top">
+                                        <h3 class="widget-title">Explore</h3>
+                                    </div>
+                                    <div class="widget-body">
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <a href="">Apartment</a>
+                                            </li>
+                                            <li>
+                                                <a href="">Bed &amp; Breakfast</a>
+                                            </li>
+                                            <li>
+                                                <a href="">Condo</a>
+                                            </li>
+                                            <li>
+                                                <a href="">House</a>
+                                            </li>
+                                            <li>
+                                                <a href="">Loft</a>
+                                            </li>
+                                            <li>
+                                                <a href="">Studio</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                                <div id="mc4wp_form_widget-2" class="widget footer-widget widget_mc4wp_form_widget">
+                                    <div class="widget-top">
+                                        <h3 class="widget-title">Newsletter Sign Up</h3>
+                                    </div>
+                                    <!-- <script>
+                                        (function() {
+                                            window.mc4wp = window.mc4wp || {
+                                                listeners: [],
+                                                forms: {
+                                                    on: function(evt, cb) {
+                                                        window.mc4wp.listeners.push({
+                                                            event: evt,
+                                                            callback: cb
+                                                        });
+                                                    }
+                                                }
+                                            }
+                                        })();
+                                    </script> -->
+                                    <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1282" method="post" data-id="1282" data-name="">
+                                        <div class="mc4wp-form-fields">
+                                            <div class="row ">
+                                                <div class="col-sm-9 mb-2">
+                                                    <input class="form-control " type="email" name="EMAIL" required="" placeholder="Enter your email">
+                                                </div>
+                                                <div class="col-sm-3 mb-2">
+                                                    <button type="submit" class="newsletter-btn btn-full-width">Submit</button>
+                                                </div>
+                                            </div>
+                                            <p style="margin-top: 20px">Homey is a powerful booking platform that lets you run a residential or
+                                                commercial
+                                                rental business online with no hassle</p>
+                                        </div>
+                                        <div class="mc4wp-response"></div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom-wrap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                        <div class="footer-copyright">
+                            Homey - All rights reserved - Designed and Developed by Favethemes
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+                        <div class="social-footer d-flex justify-content-end">
+
+                            <div class="social-icons social-round">
+
+                                <a class="btn-bg-facebook" target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+
+                                <a class="btn-bg-twitter" target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+
+                                <a class="btn-bg-linkedin" target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+
+                                <a class="btn-bg-google" target="_blank" href="#"><i class="fa fa-google"></i></a>
+
+                                <a class="btn-bg-instagram" target="_blank" href="#"><i class="fa fa-instagram"></i></a>
+
+                                <a class="btn-bg-pinterest" target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
+
+                                <a class="btn-bg-yelp" target="_blank" href="#"><i class="fa fa-yelp"></i></a>
+                                <a class="btn-bg-youtube" target="_blank" href="#"><i class="fa fa-youtube"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
     <!--  -->
 </body>
 
